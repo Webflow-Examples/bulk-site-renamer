@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allow": ["Bash(python3 check_auth.py)", "Bash(python3 list_sites.py:*)"],
+    "deny": ["Read(./.env)", "Edit(./.env)", "Write(./.env)", "Bash(cat .env:*)", "Bash(python3 auth.py:*)"]
+  }
+}

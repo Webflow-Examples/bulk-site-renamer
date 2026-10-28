@@ -1,0 +1,6 @@
+.env
+__pycache__/
+# Working files contain real site IDs
+renames.csv
+sites.csv
+undo-*.csv
